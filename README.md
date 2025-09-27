@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Engineer | Backend Specialist | AI Enthusiast**
 
-I’m a **Full-Stack Engineer** with a strong focus on **backend systems** and over **3 years of experience** building **secure, scalable, and high-performing applications**.  
+I’m a **Full-Stack Engineer** with a strong focus on **backend systems** and over **4 years of experience** building **secure, scalable, and high-performing applications**.  
 My expertise lies in **Python, Go, and Node.js** on the backend, along with **React.js and Next.js** for the frontend.  
 
 I enjoy solving complex technical problems, optimizing performance, and building products that balance **security, compliance, and great user experience**.  
