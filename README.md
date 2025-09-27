@@ -2,11 +2,11 @@
 
 🚀 **Full-Stack Engineer | Backend Specialist | AI Enthusiast**
 
-I’m a **Full-Stack Engineer** with a strong focus on **backend systems** and over **3 years of experience** building **secure, scalable, and high-performing applications**.  
-My expertise lies in **Python, Go, and Node.js** on the backend, along with **React.js and Next.js** for the frontend.  
+I’m a **Full-Stack Engineer** with over **4 years of experience** building **secure, scalable, and high-performing applications**.  
+My expertise lies in **Python, Go, and Node.js** on the backend, along with **React.js and Next.js** for the frontend.
 
-I enjoy solving complex technical problems, optimizing performance, and building products that balance **security, compliance, and great user experience**.  
-Recently, I’ve been exploring **LLMs** and **AI-driven workflows** to bring intelligence into modern applications.
+I’m passionate about solving complex technical challenges, optimizing performance, and delivering products that balance **security, compliance, and great user experience**.  
+Recently, I’ve been exploring **LLMs** and **AI-driven workflows** to bring intelligence into modern enterprise systems.
 
 ---
 
@@ -16,7 +16,7 @@ Recently, I’ve been exploring **LLMs** and **AI-driven workflows** to bring in
 **Frontend:** React.js, Next.js, TailwindCSS  
 **Databases:** PostgreSQL, MongoDB, MySQL  
 **DevOps / Tools:** Docker, Git, REST APIs, Event-Driven Architecture  
-**Other:** Security & Compliance, Pydantic, Presidio, Logging & Observability (Logfire)
+**Other:** Security & Compliance, Pydantic, Logging & Observability (Logfire)
 
 ---
 
@@ -30,21 +30,17 @@ Recently, I’ve been exploring **LLMs** and **AI-driven workflows** to bring in
 ---
 
 ## 🔭 What I’m Working On
-Currently, I’m working on **Javelin**, a platform focused on **secure LLM (Large Language Model) access** for enterprises.  
-The goal is to make it easy for different teams to safely interface with LLMs while maintaining **security, compliance, and cost efficiency**.
 
-Some highlights:
-- Implementing **custom alerting and auditing systems** for observability and compliance.  
-- Building **log monitoring tools** with **Pydantic Logfire**.  
-- Adding **prompt injection protection** using **Lakera**.  
-- Improving the overall **developer and customer experience** with a clean, efficient SDK and UI.
+I’m currently working on **[Javelin](https://www.getjavelin.com/)**, a platform focused on **secure and efficient LLM (Large Language Model) access** for enterprises.  
+The goal is to enable teams to safely interface with LLMs while maintaining **security, compliance, and cost efficiency**.
 
 ---
 
 ## 🌱 Currently Exploring
-- Scaling backend systems with **microservices and event-driven architectures**.  
-- **AI-driven security** and content moderation workflows.  
-- **System design** for large-scale enterprise applications.
+
+- Scaling backend systems with **microservices and event-driven architectures**  
+- **AI-driven security** and content moderation workflows  
+- **System design** for large-scale enterprise applications
 
 ---
 
