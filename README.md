@@ -50,8 +50,8 @@ The goal is to enable teams to safely interface with LLMs while maintaining **se
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiharDoshi99&hide_border=true&show_icons=true&theme=radical)  -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharDoshi99&hide_border=true&layout=compact&theme=radical)  -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiharDoshi99&hide_border=true&theme=radical) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharDoshi99&hide_border=true&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharDoshi99&hide_border=true&theme=radical" alt="GitHub Streak" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharDoshi99&hide_border=true&langs_count=10&count_private=true&include_all_commits=true&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharDoshi99&hide_border=true&theme=radical&count_private=true" alt="GitHub Streak" height="180px" />
 
 </p>
 
