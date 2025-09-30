@@ -63,7 +63,7 @@ The goal is to enable teams to safely interface with LLMs while maintaining **se
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://in.linkedin.com/in/nihar-doshi-15a8901a0)
-- 🌐 [Portfolio](#) _(coming soon)_
+- 🌐 [Portfolio](https://nihardoshi.vercel.app)
 
 ---
 
